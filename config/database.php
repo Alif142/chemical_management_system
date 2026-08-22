@@ -2,7 +2,7 @@
 $host = "localhost";
 $username = "root";
 $password = "";
-$database = "project_db";
+$database = "chemical_management_system";
 
 $conn = mysqli_connect(
     $host,
